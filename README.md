@@ -5,5 +5,4 @@
 - ⚡  Have good Knowledge in [C#, Java, OOP, SQL , Firebase, ASP.NET Core MVC, Angular, HTML ,CSS,
                               JavaScript, Bootstrap ,Git , design patterns].
 
-- 📫 How to reach me: https://www.linkedin.com/in/ahmad-alsharairi/
 
